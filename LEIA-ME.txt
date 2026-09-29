@@ -1,0 +1,5 @@
+Fotografia Mobile — PWA V6
+Publique todos os arquivos desta pasta juntos em um servidor HTTPS.
+No GitHub Pages: crie um repositório, envie os arquivos para a raiz, abra Settings > Pages,
+selecione Deploy from a branch > main > /(root) e salve.
+Depois abra o endereço publicado no Safari do iPhone e use Compartilhar > Adicionar à Tela de Início.
